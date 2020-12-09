@@ -250,3 +250,18 @@ iframe{
   font-family:PT Serif;
 }
 
+#footer{
+background-color:#0099ff;
+padding-bottom:  30px;
+color: white;
+min-height: 100px;
+margin-top: 1450px;
+position: absolute;
+
+}
+#footer p{
+	margin-left: 3px;
+	font-size: 45px;
+	min-height: 100px;
+	padding-left: 20px;
+}
