@@ -1,0 +1,252 @@
+body{
+	background-color: #fff;
+	margin: 0px;
+	padding: 0px;
+	background-image: url('Img/Crowd.jpg');
+		background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	font-family: poppins;
+	height: 34vh;
+	background-color:#fff;
+	 font-family: 'Lato', sans-serif;
+	
+
+}
+
+
+}
+#button
+	border: 2px white solid;
+	border-radius: 50px;
+	font-size: 40px;
+
+	
+
+}
+
+#button:hover{
+	background-color:#0099ff;
+
+	}
+
+
+
+span:before{
+	content: '';
+	animation: animation infinite 8s;
+}
+
+
+
+.container{
+	max-width: 1200px;
+	margin: auto;
+	background:white;
+	overflow: auto;
+
+}
+
+
+
+
+
+img{
+	border-radius: 10px;
+	border: 1px solid black;
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,.2), 0 6px 20px 0 black;
+}
+
+
+
+#Button{
+	border: 2px #333 solid;
+
+	padding: 	2px;
+	background-color: #3399ff;
+	font-size: 45px;
+}
+#Button:hover{
+	background-color: ;
+
+}
+a{
+	text-decoration: none;
+}
+
+
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	color: #333;
+}
+a:active{
+	color: green;
+}
+
+#showcase{
+	animation-name: Img;
+	animation-duration: 1s;
+}
+@keyframes Img{
+	0%{margin-top: 400px;}
+	
+}
+
+@keyframes Upper{
+	0%{margin-top: 200px;}
+
+}
+
+
+@keyframes Come {
+0%{color:#3399ff ;}
+25%{color:blue }
+50%{color:yellow }
+75%{color: green}
+100%{color: red;}
+}
+img:hover{
+	background-color: ;
+	
+}
+
+
+#AP{
+	font-size: 100px;
+	margin: 250px;
+	margin-left: 1px;
+	margin-right: 1px;
+	border: 4px blue solid;
+	padding: 	10px;
+	background-color:yellow ;
+	font-size: 40px;
+	border-radius: 10px;
+	color: red;
+	font-family:khand;
+	letter-spacing: 1px;
+
+	
+
+}
+#AP1{
+	font-size: 100px;
+	margin: 250px;
+	margin-left: 16px;
+	margin-right: 100px;
+	border: 4px blue solid;
+	padding: 	9px;
+	background-color:yellow ;
+	font-size: 40px;
+	border-radius: 10px;
+	color: red;
+		font-family: khand;
+	letter-spacing: 1px;
+
+}
+a{
+	text-decoration: none;
+}
+.Dis{
+	font-size: 20px;
+	
+	font-family: khand;
+	font-weight: 2px;
+	padding: 20px;
+	text-decoration: none;
+	position: all;
+	margin-top: 20px;
+	position: ;
+	
+
+
+}
+#Bharat{
+	margin-top:10px;
+	}
+
+img{
+	position: ;
+}
+
+
+p{
+	font-family: khand;
+}
+
+iframe{
+	margin-top:550px;
+	border: 4px solid blue;
+
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+#What{
+	height: 90px;
+	width: 140px;
+	margin-bottom: px;
+	position:all;
+	padding: 20;
+}
+.Share{
+	margin-top: %;
+	position: ;
+	font-size: 57px;
+	padding: 0px;
+	position: relative;
+
+
+}
+
+
+
+
+
+
+
+/* Navbar----*/
+.bg-img {
+  /* The image used */
+  background-image: url("Img/Crow.jpg");
+
+  min-height: 380px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* Needed to position the navbar */
+  position: relative;
+}
+
+/* Position the navbar container inside the image */
+.container {
+  position: absolute;
+  margin: 30px;
+  width: auto;
+}
+
+/* The navbar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+  font-family:PT Serif;
+}
+

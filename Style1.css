@@ -1,0 +1,275 @@
+body{
+	background-color: #fff;
+	margin: 0px;
+	padding: 0px;
+	background-image: url('Img/Crowd.jpg');
+		background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	font-family: poppins;
+	height: 40vh;
+	background-color:#fff;
+	 font-family: 'Lato', sans-serif;
+	
+
+}
+#navbar{
+	background-color:; 
+	color: white;
+	padding: 0px;
+	padding-bottom: 0px;
+	position: absolute;
+	margin-left: 0px;
+min-width: 80%;
+margin-left: 20%;
+	
+
+
+
+}
+
+#navbar ul{
+	padding:0;
+	list-style: none;
+	margin-left: 0px;
+	text-align: center;
+
+
+
+
+}
+
+#navbar li{
+	display: inline;
+	margin-left: 0px;
+	font-size: 76px;
+	font-family: comic sans ms;
+	padding: 0px;
+	padding-bottom: 0px;
+padding-left: 0px;
+background-color: #3399ff;
+
+
+
+
+}
+	
+#navbar a{
+	padding-right: 0px;
+	
+	color: white;
+	font-size: 16px;
+	text-decoration: none;
+
+
+}
+#button
+	border: 2px white solid;
+	border-radius: 50px;
+	font-size: 40px;
+
+	
+
+}
+
+#button:hover{
+	background-color:#0099ff;
+
+	}
+
+
+
+span:before{
+	content: '';
+	animation: animation infinite 8s;
+}
+
+@keyframes  animation{
+	0%{
+		content: 'hacker';
+}
+	20%{
+		content: 'sdasda';
+}
+
+40%{
+		content: 'sdaasd';
+}
+60%{	
+	content: '';
+}
+80%{	
+	content: 'sdasda';}
+
+
+100%{		
+	content: 'sdasd';
+}
+
+}
+
+
+
+.container{
+	max-width: 1200px;
+	margin: auto;
+	background:white;
+	overflow: auto;
+
+}
+
+.bloodshot{
+	margin:  5px;
+	
+	float: left;
+	animation-name: Upper;
+	animation-duration: 1s;
+	}
+
+#footer{
+background-color:#0099ff;
+padding: 100px;
+color: white;
+min-height: 100px;
+margin-top: 3%;
+
+}
+#footer p{
+	margin-left: 75px;
+	font-size: 20px;
+	min-height: 100px;
+margin-top: 3%;
+
+}
+
+img {
+	border-radius: 20px;
+	border: 4px solid black;
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,.2), 0 6px 20px 0 black;
+}
+
+
+img{
+
+	position: relative;
+	background-repeat: no-repeat;
+	background-color: ;
+
+
+
+}
+
+#Button{
+	border: 2px #333 solid;
+
+	padding: 	2px;
+	background-color: #3399ff;
+	font-size: 45px;
+}
+#Button:hover{
+	background-color: ;
+
+}
+a{
+	text-decoration: none;
+}
+
+
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	color: #333;
+}
+a:active{
+	color: green;
+}
+
+#showcase{
+	animation-name: Img;
+	animation-duration: 1s;
+}
+@keyframes Img{
+	0%{margin-top: 400px;}
+	
+}
+
+@keyframes Upper{
+	0%{margin-top: 200px;}
+
+}
+
+
+@keyframes Come {
+0%{color:#3399ff ;}
+25%{color:blue }
+50%{color:yellow }
+75%{color: green}
+100%{color: red;}
+}
+img:hover{
+	background-color: ;
+	
+}
+
+
+#AP{
+	font-size: 100px;
+	margin: 250px;
+	margin-left: 1px;
+	margin-right: 1px;
+	border: 4px blue solid;
+	padding: 	10px;
+	background-color:yellow ;
+	font-size: 40px;
+	border-radius: 10px;
+	color: red;
+	font-family:khand;
+	letter-spacing: 1px;
+
+	
+
+}
+#AP1{
+	font-size: 100px;
+	margin: 250px;
+	margin-left: 16px;
+	margin-right: 100px;
+	border: 4px blue solid;
+	padding: 	9px;
+	background-color:yellow ;
+	font-size: 40px;
+	border-radius: 10px;
+	color: red;
+		font-family: khand;
+	letter-spacing: 1px;
+
+}
+a{
+	text-decoration: none;
+}
+.Dis{
+	font-size: 50px;
+	
+	font-family: khand;
+	font-weight: 2px;
+	padding: 20px;
+	text-decoration: none;
+	position: all;
+	margin-top: 1100px;
+	position: fixed;
+	
+
+
+}
+#Bharat{
+	margin-top:1500px;
+	}
+
+img{
+	
+}
+
+
