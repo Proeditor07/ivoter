@@ -254,7 +254,7 @@ a{
 .Dis{
 	font-size: 50px;
 	
-	font-family: khand;
+	font-family:AMS Premankur Regular;
 	font-weight: 2px;
 	padding: 20px;
 	text-decoration: none;
@@ -336,4 +336,5 @@ position: relative;
 	font-size: 45px;
 	min-height: 100px;
 	padding-left: 20px;
+	font-family:khand;
 }
