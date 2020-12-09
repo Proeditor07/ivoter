@@ -2,7 +2,7 @@ body{
 	background-color: #fff;
 	margin: 0px;
 	padding: 0px;
-	background-image: url('Img/Crowd.jpg');
+	background-image: url('Img/Banner.jpg');
 		background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -217,7 +217,7 @@ img:hover{
 
 #AP{
 	font-size: 26px;
-	margin: 500px;
+	margin: 20px;
 	margin-left: 1px;
 	margin-right: 1px;
 	border: 4px blue solid;
@@ -314,8 +314,8 @@ p{
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 30px;
-  font-family:PT Serif;
+  font-size: 43px;
+  font-family:comic sans ms;
 }
 
 .topnav a:hover {
@@ -324,11 +324,11 @@ p{
 }
 #footer{
 background-color:#0099ff;
-padding-bottom: 30px;
+padding-bottom:  30px;
 color: white;
 min-height: 100px;
-margin-top: 1450px;
-position: absolute;
+margin-top: 1000px;
+position: relative;
 
 }
 #footer p{
