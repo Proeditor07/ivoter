@@ -3,12 +3,12 @@ h1{
 	font-family: comic sans ms;
 	margin-left: 300px;
 	margin-top: 600px;
-	position: ;
+	position:absolute;
 }
 p{
 	font-family: khand;
 	font-size: 50px;
-	margin-top: 1000px;
+	margin-top: 800px;
 	position:absolute;
 }
 /* Navbar----*/
