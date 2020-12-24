@@ -349,16 +349,5 @@ position: relative;
 	min-height: 10px;
 	padding-left: 2px;
 	font-family:khand;
-	@font-face {
-			font-family:nana;
-			src :url('Khand-Bold.ttf');
-			
-
-			}
-			p{
-				font-family:nana;
-			}
-		
-
 	
 }
