@@ -70,6 +70,18 @@ background-color: #3399ff;
 			
 
 			}
+@font-face {
+			font-family:nana;
+			src :url('Khand-Semibold.ttf');
+			
+
+			}
+@font-face {
+			font-family:nana;
+			src :url('Khand-Semibold.ttf');
+			
+
+			}
 			
 
 
@@ -240,7 +252,6 @@ img:hover{
 	color: red;
 	font-family:khand;
 	letter-spacing: 1px;
-
 	font-family:nana;
 
 
