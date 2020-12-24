@@ -230,6 +230,16 @@ img:hover{
 	font-family:khand;
 	letter-spacing: 1px;
 	background-c
+	@font-face {
+			font-family:nana;
+			src :url('Khand-Bold.ttf');
+			
+
+			}
+			p{
+				font-family:nana;
+			}
+		}
 
 	
 
