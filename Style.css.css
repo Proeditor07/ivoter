@@ -1,3 +1,21 @@
+@font-face {
+			font-family: nana;
+			src :url('Khand-Bold.ttf');
+			
+	}
+			
+			a{
+				font-family: nana;
+			}
+	p{font-family: nana;}
+		}
+
+
+
+
+
+
+
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
 body{
