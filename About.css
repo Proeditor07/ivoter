@@ -1,3 +1,11 @@
+@font-face {
+			font-family:nana;
+			src :url('Khand-Semibold.ttf');
+			
+
+			}
+
+
 h1{
 	font-size: 100px;
 	font-family: comic sans ms;
@@ -6,7 +14,7 @@ h1{
 	position: absolute;
 }
 #P1{
-	font-family: khand;
+	font-family: nana;
 	font-size: 80px;
 	margin-top: 50px;
 	position: absolute;
