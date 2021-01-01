@@ -176,10 +176,16 @@ a{
 img{
 	position: ;
 }
+@font-face {
+			font-family:nana;
+			src :url('Khand-Semibold.ttf');
+			
+
+			}
 
 
 p{
-	font-family: ;
+	font-family:nana;
 }
 
 iframe{
