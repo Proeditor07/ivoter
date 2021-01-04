@@ -4,12 +4,7 @@
 			
 
 			}
-@font-face {
-			font-family:kaka;
-			src :url('Evogria.ttf');
-			
 
-			}
 			
 
 			
@@ -22,6 +17,12 @@ h1{
 	margin-top: 100px;
 	position: absolute;
 }
+@font-face {
+			font-family:kaka;
+			src :url('Evogria.ttf');
+			
+
+			}
 #P1{
 	font-family:kaka;
 	font-size: 80px;
